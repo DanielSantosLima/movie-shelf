@@ -1,0 +1,32 @@
+
+{ "login": {
+    "user": {
+        "message": "User"
+    },
+    "password": {
+        "message": "Password"
+    },
+    "loginButton": {
+        "message": "Log In"
+    },
+    "forgotPassMessage": {
+        "message": "Forgot your password? Click"
+    },
+    "forgotPassButton": {
+        "message": "Here!!!"
+    },
+    "loginError": {
+        "header": {
+            "message": "Error!!!"
+        },
+        "body": {
+            "message": "Please, fill and the fields and try again."
+        }
+    }
+},
+ "home": {
+    "welcome": {
+        "message": "Welcome!!!"
+    }
+ }
+}

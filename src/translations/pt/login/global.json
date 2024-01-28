@@ -1,0 +1,31 @@
+{ "login": {
+    "user": {
+        "message": "Usuário"
+    },
+    "password": {
+        "message": "Senha"
+    },
+    "loginButton": {
+        "message": "Entrar"
+    },
+    "forgotPassMessage": {
+        "message": "Esqueceu sua senha? Clique"
+    },
+    "forgotPassButton": {
+        "message": "Aqui!!!"
+    },
+    "loginError": {
+        "header": {
+            "message": "Erro!!!"
+        },
+        "body": {
+            "message": "Por favor, preencha todos os campos e tente novamente."
+        }
+    }
+},
+"home": {
+    "welcome": {
+        "message": "Seja Bem-Vindo!!!"
+    }
+ }   
+}

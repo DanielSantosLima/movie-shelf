@@ -1,4 +1,5 @@
 import { StyleSheet } from "react-native";
+import Colors from "../../lib/Colors";
 
 const styles = StyleSheet.create({
   screenContainer: {
@@ -32,6 +33,7 @@ const styles = StyleSheet.create({
     padding: 15,
     width: "40%",
     alignItems: "center",
+    backgroundColor: Colors.background
   },
   buttonText: {
     color: "#fff",
